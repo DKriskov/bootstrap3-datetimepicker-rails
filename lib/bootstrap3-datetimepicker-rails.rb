@@ -1,5 +1,5 @@
-require 'bootstrap3-datetimepicker-rails/version'
 require 'moment-js'
+require 'bootstrap3-datetimepicker-rails/version'
 
 module Bootstrap3Datetimepicker
   module Rails
